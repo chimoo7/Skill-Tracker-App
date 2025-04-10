@@ -1,0 +1,20 @@
+# Java & Spring Boot
+/target/
+*.class
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Lombok config (optional)
+*.lombok.config
